@@ -56,3 +56,10 @@ With over ten years of experience in IT, I am currently serving as a Senior DevO
                     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" />
                     </picture>
                     </a></p>
+
+<a href="https://certdirectory.io/profile/umesh-torawane?utm_source=github&utm_medium=readme">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://certdirectory.io/badge/umesh-torawane.svg?style=card&theme=dark">
+    <img alt="Umesh Torawane on CertDirectory" src="https://certdirectory.io/badge/umesh-torawane.svg?style=card">
+  </picture>
+</a>
